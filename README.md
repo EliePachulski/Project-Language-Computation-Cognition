@@ -1,6 +1,6 @@
-# Project-PoTeC
+# Project of Elie Pachulski and Moche Chetrit
 
-This repository contains the code for our project in course 00960222.
+This repository contains the code for our project in course 00960222 Language, Computation and Cognition of the decision and Data Science Faculty at the Technion.
 
 The project analyzes how eye movements during scientific reading differ depending on readers' academic level and whether the text matches their discipline. The analysis is based on the PoTeC dataset and focuses on four reading classes: Expert, Graduate out-of-domain, Undergraduate in-domain, and Undergraduate out-of-domain.
 
