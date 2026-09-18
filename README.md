@@ -1,23 +1,24 @@
-# Project of Elie Pachulski and Moche Chetrit
+# Project-PoTeC
 
-This repository contains the code for our project in course 00960222 Language, Computation and Cognition of the decision and Data Science Faculty at the Technion.
+**Authors:** Elie Pachulski and Moshe Chetrit
 
-The project analyzes how eye movements during scientific reading differ depending on readers' academic level and whether the text matches their discipline. The analysis is based on the PoTeC dataset and focuses on four reading classes: Expert, Graduate out-of-domain, Undergraduate in-domain, and Undergraduate out-of-domain.
+This repository contains the code for our final project for the course **00960222 – Language, Computation and Cognition** at the Faculty of Data and Decision Sciences, Technion – Israel Institute of Technology.
 
-## Files
+## Project Overview
 
-- `Project-PoTeC.ipynb`: main notebook containing the full analysis.
-- `Project-PoTeC.py`: Python script version of the notebook.
+This project investigates how eye movements during scientific reading vary according to readers' academic background and whether the text belongs to their field of expertise.
 
-## Data
+Using the **PoTeC** dataset, we analyze four reading groups:
 
-The data are not included in this repository.
+- Expert readers
+- Graduate (out-of-domain)
+- Undergraduate (in-domain)
+- Undergraduate (out-of-domain)
 
-The PoTeC dataset can be downloaded from:
+The project aims to identify differences in reading behavior through eye-tracking measures and statistical analysis.
 
-https://github.com/DiLi-Lab/PoTeC
+## Repository Contents
 
-The notebook expects the reading-measure files to be located at:
-
-```text
-../data/PoTeC/precomputed_reading_measures/reading_measures_merged/
+- Source code used for data preprocessing, analysis, and experiments.
+- Figures and visualizations generated during the study.
+- The complete research paper describing the methodology, experiments, results, and conclusions.
